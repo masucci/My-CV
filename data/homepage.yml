@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hello, I’m Lorenzo."
   subtitle: "Front-End Developer"
-  description: "I'm a student at <a target='_blank' href='https://www.developeracademy.unina.it/en/'>Apple Developer Academy</a>, a great company in Naples. And I am a Developer. Keep cool, stay in touch. You can see some of my works<a target='_blank' href='https://github.com/masucci'>github</a>."
+  description: "I'm a student at <a target='_blank' href='https://www.developeracademy.unina.it/en/'>Apple Developer Academy</a>, a great company in Naples. And I am a Developer. Keep cool, stay in touch. You can see some of my works<a target='_blank' href='https://github.com/masucci'> github</a>."
   image:
     x: "img/showcase/showcase.png"
     _2x: "img/showcase/showcase@2x.png"
