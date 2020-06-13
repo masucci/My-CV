@@ -1,6 +1,5 @@
-baseURL = "https://lorenzomasucci.fun"
+baseURL = "https://raditian-hugo.radity.com/"
 languageCode = "en-us"
-title = "My CV - Lorenzo Masucci"
 theme = "raditian-free-hugo-theme"
 
 # Plugins
@@ -60,13 +59,17 @@ theme = "raditian-free-hugo-theme"
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "contact", "newsletter"]
+  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Lorenzo"
-    text2 = "Masucci"
+    text1 = "Andreas"
+    text2 = "Ellure"
 
   [params.footer]
-      copyright = "Lorenzo Masucci"
+      copyright = "© Raditian. All rights reserved."
+      [params.footer.radity_logo]
+        x = "img/general/design-and-code-radity.png"
+        _2x = "img/general/design-and-code-radity@2x.png"
+        alt = "Design & Code - Radity"
