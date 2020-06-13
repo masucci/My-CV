@@ -117,7 +117,7 @@ client_and_work:
 
   works:
     - title: "Deepen"
-      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      description: "Deepen is an app that helps people to reflect daily, improving their productivity and getting to know them better."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -128,7 +128,10 @@ client_and_work:
       is_even: true
 
     - title: "Ulixes - beyond a number"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      description: "Ulixes is the app that allows you to constantly keep track of your students’ soft skills and monitor their personal growth.
+      With Ulixes you can create a general profile of every student, adding, from time to time, updated events in the personal growth
+      of your students. These events will then be useful for the class coordinator in order to trace a profile of the soft skills of
+      each student when required, following the events traced and actually happened."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
@@ -139,7 +142,9 @@ client_and_work:
       is_even: false
 
     - title: "beCare"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      description: "BeCARe! is an app entirely dedicated to the maintenance of your machine.
+      Thanks to this app you can keep an eye on the deadlines that affect your car and its conditions. 
+      The app offers you the possibility to view graphs that show the costs incurred for the maintenance of your car."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
