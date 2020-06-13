@@ -70,6 +70,6 @@ theme = "raditian-free-hugo-theme"
   [params.footer]
       copyright = "Lorenzo Masucci"
       [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+        x = ""
+        _2x = ""
+        alt = ""
