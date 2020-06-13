@@ -1,4 +1,4 @@
-baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "https://lorenzomasucci.fun"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
@@ -69,7 +69,4 @@ theme = "raditian-free-hugo-theme"
 
   [params.footer]
       copyright = "Lorenzo Masucci"
-      [params.footer.radity_logo]
-        x = ""
-        _2x = ""
-        alt = ""
+    
