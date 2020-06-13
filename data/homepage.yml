@@ -74,17 +74,10 @@ experience:
     URL: "#"
 
   items:
-    - title: "Sr. Front-End Developer"
-      company: "Radity"
-      duration: "Feb 2011 - Sep 2019"
+    - title: "iOS Developer"
+      company: "Apple Developer Academy"
+      duration: "Sep 2019 - Jun 2020"
 
-    - title: "Sr. Front-End Developer"
-      company: "Textic"
-      duration: "Apr 2010 - Jan 2011"
-
-    - title: "Jr. Front-End Developer"
-      company: "Cyberse"
-      duration: "Jun 2009 - Mar 2010"
 
 # Client & Work
 client_and_work:
