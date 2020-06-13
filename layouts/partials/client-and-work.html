@@ -41,8 +41,7 @@
         <img
           class='lozad img-responsive {{ cond (eq ( mod $index 4) 0) "img-clip-left-backward" "img-clip-left-forward" }}'
           src="img/works/radity-finance.jpg"
-          data-src="{{ .image.x | absURL }}"
-          data-srcset="{{ .image.x | absURL }} 1x, {{ .image._2x | absURL }} 2x"
+        
           alt="{{ .title }}"
         />
       </div>
