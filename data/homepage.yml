@@ -43,8 +43,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/lorenzo-masucci/"
   image:
-    x: "who-am-i/user-picture.png"
-    _2x: "who-am-i/user-picture@2x.png"
+    x: "https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png"
+    _2x: "https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png"
 
 # education
 education:
