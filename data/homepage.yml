@@ -155,7 +155,7 @@ client_and_work:
       is_even: true
 
 # testimonial
-#testimonial:
+testimonial:
   enable: false
   title: "Testimonials"
   items:
