@@ -43,8 +43,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/lorenzo-masucci/"
   image:
-    x: "img/who-am-i/lorenzo.png"
-    _2x: "img/who-am-i/lorenzo@2x.png"
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
 
 # education
 education:
@@ -88,24 +88,24 @@ experience:
 
 # Client & Work
 client_and_work:
-  title: "Clients & Works"
+  title: "Challenges"
   enable: true
 
   clients:
     - logo:
         x: "img/clients/asgardia.png"
         _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+      alt: "Deepen"
 
     - logo:
         x: "img/clients/earth-2.png"
         _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+      alt: "Ulixes"
 
     - logo:
         x: "img/clients/goldline.png"
         _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+      alt: "beCare"
 
     - logo:
         x: "img/clients/kanba.png"
