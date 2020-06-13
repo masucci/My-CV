@@ -123,7 +123,7 @@ client_and_work:
       alt: "Ztos"
 
   works:
-    - title: "Radity Finance - UI Kit"
+    - title: "Deepen"
       description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
       button:
         icon: "icon-arrow-right"
@@ -134,7 +134,7 @@ client_and_work:
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
 
-    - title: "Swiss Fintech Website"
+    - title: "Ulixes - beyond a number"
       description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
       button:
         icon: "icon-arrow-right"
@@ -145,7 +145,7 @@ client_and_work:
         _2x: "img/works/swissfintech@2x.jpg"
       is_even: false
 
-    - title: "Robo Advisor"
+    - title: "beCare"
       description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
       button:
         icon: "icon-arrow-right"
