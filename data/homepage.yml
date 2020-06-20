@@ -71,7 +71,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "https://lorenzomasucci.fun/"
+    URL: "static/CV.pdf"
 
   items:
     - title: "iOS Developer"
@@ -84,48 +84,30 @@ client_and_work:
   title: "Challenges"
   enable: true
 
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Deepen"
-
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Ulixes"
-
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "beCare"
-
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
-
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
-
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
-
   works:
     - title: "Deepen"
       description: "Deepen is an app that helps people to reflect daily, improving their productivity and getting to know them better."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "https://testflight.apple.com/join/L5MrkOj8"
+        btnText: "App Store"
+        URL: "https://apps.apple.com/it/app/deepen/id1514599518"
       image:
         x: "img/works/radity-finance.jpg"
         _2x: "img/works/radity-finance@2x.jpg"
       is_even: true
+
+    - title: "beCare"
+      description: "BeCARe! is an app entirely dedicated to the maintenance of your machine.
+      Thanks to this app you can keep an eye on the deadlines that affect your car and its conditions.
+      The app offers you the possibility to view graphs that show the costs incurred for the maintenance of your car."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "https://github.com/masucci/BeCare"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
 
     - title: "Ulixes - beyond a number"
       description: "Ulixes is the app that allows you to constantly keep track of your students’ soft skills and monitor their personal growth.
@@ -136,19 +118,6 @@ client_and_work:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "https://medium.com/@gprisco01/how-you-can-add-value-to-your-teaching-evaluation-method-3c9fc7e42a96"
-      image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
-      is_even: false
-
-    - title: "beCare"
-      description: "BeCARe! is an app entirely dedicated to the maintenance of your machine.
-      Thanks to this app you can keep an eye on the deadlines that affect your car and its conditions.
-      The app offers you the possibility to view graphs that show the costs incurred for the maintenance of your car."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "https://github.com/masucci/BeCare"
       image:
         x: "img/works/robo-advisor.jpg"
         _2x: "img/works/robo-advisor@2x.jpg"
@@ -171,7 +140,7 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "#"
+    action: "mailto:lorenzo.masucci@outlook.com"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
@@ -190,7 +159,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
