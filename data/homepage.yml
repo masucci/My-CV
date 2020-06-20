@@ -102,7 +102,7 @@ client_and_work:
       The app offers you the possibility to view graphs that show the costs incurred for the maintenance of your car."
       button:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
+        btnText: "Github"
         URL: "https://github.com/masucci/BeCare"
       image:
         x: "img/works/swissfintech.jpg"
