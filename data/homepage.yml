@@ -71,7 +71,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "static/CV.pdf"
+    URL: "static/NN4M.json"
 
   items:
     - title: "iOS Developer"
